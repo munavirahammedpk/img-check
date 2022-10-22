@@ -1,7 +1,6 @@
 {
   "name": "check-image-node-js",
   "version": "0.0.0",
-  "private": true,
   "main": "index.js",
   "engines": {
     "node": "14.x"
